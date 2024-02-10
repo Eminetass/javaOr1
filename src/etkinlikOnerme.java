@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 // HAVA DURUMUNA GÖRE ETKİNLİK ÖNEREN PROGRAM
 public class etkinlikOnerme {
